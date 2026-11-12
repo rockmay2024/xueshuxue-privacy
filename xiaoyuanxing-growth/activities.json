@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T01:09:08Z",
+  "updatedAt": "2026-11-12T01:24:46Z",
   "publisher": "小远行大成长公开活动库",
   "notice": "请仅录入已核验、公开可访问且仍有效的活动；活动时间、费用、预约方式以原始发布页面为准。",
   "items": [
@@ -18,7 +18,7 @@
       "sourceName": "北京市人民政府门户网站（石景山文旅）",
       "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/bmzt/jqshj/qxdt/202610/t20261022_4914298.html",
       "summary": "模式口四家文博场馆联动的秋日公共文化活动，含古树科普、秋叶标本制作、银杏书签手工、非遗展演及摄影分享会。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1792637286405",
@@ -34,7 +34,7 @@
       "sourceName": "上海博物馆官网",
       "sourceUrl": "https://www.shanghaimuseum.cn/frontend/pg/article/id/E00004238",
       "summary": "上海博物馆对话世界系列第六展。文物来自墨西哥、秘鲁的顶级文博机构，中国国内的7省文博机构的珍贵文物也并置展出，以中国视角解读美洲文明。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794272226473",
@@ -50,7 +50,7 @@
       "sourceName": "上海市文化和旅游局官网",
       "sourceUrl": "https://whlyj.sh.gov.cn/wbzx/20261030/eb43dd6984364cf298df25952ccae844.html",
       "summary": "古籍图像与版画文化主题展，可作为家庭阅读和艺术观察的参考。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794197704322",
@@ -66,7 +66,7 @@
       "sourceName": "金陵图书馆官网",
       "sourceUrl": "https://www.jllib.cn/hdym/hdyg/px/202611/t20261105_75999.html",
       "summary": "由儿童阅读指导师带领的绘本精读。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793242995881",
@@ -82,7 +82,7 @@
       "sourceName": "北京市文物局",
       "sourceUrl": "https://wwj.beijing.gov.cn/bjww/362679/483700/744147982/index.html",
       "summary": "中国电影博物馆长征主题影像展映活动，展期持续至11月29日。供家庭历史文化教育活动参考，具体影片、场次、费用及适龄需在发布前核实。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793846855900",
@@ -98,7 +98,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50126296",
       "summary": "由广州图书馆馆员亭亭老师带领的英文绘本阅读活动，通过猫与狗的故事探讨相处和友谊。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793936499964",
@@ -114,7 +114,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50127116",
       "summary": "官方11月绘本活动预告中的种子传播主题阅读场次，由志愿者利凤玲老师导读，认识植物传播种子的不同方式。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793755897890",
@@ -130,7 +130,7 @@
       "sourceName": "杭州图书馆官网",
       "sourceUrl": "https://www.zjhzlib.cn/hdyghz/8255.htm",
       "summary": "暂无，关注微信公众号",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793456470360",
@@ -146,7 +146,7 @@
       "sourceName": "上海市人民政府门户网站（虹口区人民政府）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261030/8966320181b24185b8397086e8eaeb44.html",
       "summary": "虹口区官方11月文化活动预告中的科学体验活动，围绕日常现象认识科学原理。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1792985359634",
@@ -162,7 +162,22 @@
       "sourceName": "常州市文化广电和旅游局（常州博物馆活动）",
       "sourceUrl": "https://wglj.changzhou.gov.cn/html/wgxj/2026/EFADJFDC_1023/91873.html",
       "summary": "秋假期间的免费体验活动，包含矿物颜料文物色卡填色与纹样杯垫拓印，现场随机开展。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794446426941",
+      "city": "上海",
+      "title": "艺DAO•橙心｜非遗手作：锦缎贴骏马送吉，布片拼玫瑰留香",
+      "venue": "杨浦文化艺术中心二楼非遗展厅手工坊（中原路188号） 冬日不败·布艺玫瑰相框 布艺是我国经典民间传统手工艺，以布料为载体，运用裁剪、拼贴、卷折等多种技法，创作出兼具实用性与观赏性的手作，一针一线间流露",
+      "category": "艺术",
+      "dateText": "2026年11月15日（周日）14:00 - 16:00",
+      "fee": "免费",
+      "reservation": "官方小程序报名",
+      "ageMax": 60,
+      "sourceName": "杨浦文化艺术中心",
+      "sourceUrl": "https://mp.weixin.qq.com/s/hRaq8GEltxL7bcHAD4AIkQ",
+      "summary": "艺DAO•橙心｜非遗手作：锦缎贴骏马送吉，布片拼玫瑰留香 杨浦文化艺术中心 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 立冬已过，小雪在望。霜寒渐浓，万物敛藏。寒意渐起的周末，杨浦文化艺术中心“艺DAO·橙心”非遗手作课堂带来两场温暖手作体验：周六锦缎贴制骏马，周日布片卷制玫瑰。一刚一柔，尽显非遗技艺在冬日的温情表达。 锦缎呈祥·骏马送吉 锦缎，是我国传统织造技艺中的瑰宝，经纬交错之间沉淀着千年匠心与东方美学底蕴。本次课程以骏马为创作主题。",
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794272114460",
@@ -178,7 +193,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50127356",
       "summary": "用电安全、节能及工作人员指导的电路演示",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794197772387",
@@ -194,7 +209,7 @@
       "sourceName": "上海市人民政府官网（来源：普陀区人民政府）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261104/75b0899834ff45c793a615dfdebd5830.html",
       "summary": "“童悦长寿·花珠拾趣”绘本阅读及永生花珍珠挂饰DIY活动",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794197580852",
@@ -210,7 +225,7 @@
       "sourceName": "上海国际童书展主办方官网",
       "sourceUrl": "https://www.ccbookfair.com/cn/index/visit/general-information",
       "summary": "主办方官网已确认日期、场馆和公众购票入口，配套公众阅读推广、插画及童书展示活动。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793756151766",
@@ -226,7 +241,7 @@
       "sourceName": "上海市人民政府官网（来源：静安区人民政府）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261102/4e18dee0fabd4ee2b296eb612d889c5b.html",
       "summary": "静安区官方发布的城市公共艺术季，包含沿河艺术装置以及戏剧、音乐、舞蹈等展演。本候选为整体活动预告，不保证所有场次适合儿童；发布前需人工选择可参加场次并核验费用与预约。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793668474594",
@@ -242,7 +257,7 @@
       "sourceName": "上海市虹口区人民政府官网",
       "sourceUrl": "https://www.shhk.gov.cn/xwzx/002014/20261029/39c4040d-7d69-487a-81fd-c7f17f5944c3.html",
       "summary": "虹口区11月家庭阅读活动预告中的一场，通过动物角色扮演和情境讨论，引导孩子分析线索、交流观点、理解不同角色。适合9—16岁亲子家庭。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793599156648",
@@ -257,7 +272,7 @@
       "sourceName": "上海市人民政府门户网站（普陀区人民政府）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261030/7d6ab1b29c254390954066341a4f2545.html",
       "summary": "普陀区11月官方活动日历中的亲子阅读分享会，以《上海小囡》为主题。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1792985316956",
@@ -273,7 +288,87 @@
       "sourceName": "常州市文化广电和旅游局（常州博物馆活动）",
       "sourceUrl": "https://wglj.changzhou.gov.cn/html/wgxj/2026/EFADJFDC_1023/91873.html",
       "summary": "面向低龄亲子家庭的自然科普课程，通过猜谜、实验与特展观察，认识昆虫的隐身和生存智慧。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794446493433",
+      "city": "上海",
+      "title": "报名｜亲子流行合唱俱乐部",
+      "venue": "上海市群众艺术馆 三楼·报告厅 徐汇区古宜路125号",
+      "category": "艺术",
+      "dateText": "2026年11月14日（周六） 13:30",
+      "fee": "20元 （现场收取）",
+      "reservation": "官方小程序",
+      "ageMin": 8,
+      "ageMax": 16,
+      "sourceName": "上海市群众艺术馆",
+      "sourceUrl": "https://mp.weixin.qq.com/s/Y64hXbDz2Qx6Hzp3CXIsrQ",
+      "summary": "本期活动歌曲：《蜂鸟》- 吴青峰\n这个周六，想请你和孩子来做一只“蜂鸟”，一起飞翔，来把一个一个梦制造。",
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794445011417",
+      "city": "广州",
+      "title": "音乐零距离第70期：“南方的守护”岭南室内乐专题音乐会",
+      "venue": "广州图书馆负一层1号报告厅（广州市珠江东路4号）",
+      "category": "艺术",
+      "dateText": "2026年11月14日15:30—17:00",
+      "fee": "免费",
+      "reservation": "官方平台报名",
+      "ageMin": 6,
+      "ageMax": 30,
+      "sourceName": "广州图书馆官方活动发布平台",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50127216",
+      "summary": "广州图书馆与广州南方学院艺术学院合作的岭南音乐欣赏活动。",
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794444957655",
+      "city": "上海",
+      "title": "上海碳秘馆亲子科普活动：莫奈的后花园",
+      "venue": "上海碳秘馆二楼阅读区（大连路1410号，以本场官方预告为准）",
+      "category": "科学",
+      "dateText": "2026年11月14日15:00—16:00",
+      "fee": "免费",
+      "reservation": "通过上海碳秘馆官方服务号报名",
+      "ageMin": 10,
+      "ageMax": 15,
+      "sourceName": "上海市人民政府官网（虹口区11月幸福学堂活动预告）",
+      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261029/b7ae71cbb0d4453c893c3417c8b8fa0c.html",
+      "summary": "官方文化预告明确亲子参与的化学科普体验，以渗透作用为主题",
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794444923038",
+      "city": "广州",
+      "title": "阅创空间·小小创客：机器人编程——能歌善舞·Yanshee的声光表演",
+      "venue": "广州图书馆南四楼阅创空间（广州市珠江东路4号）",
+      "category": "科学",
+      "dateText": "2026年11月14日14:30—16:30",
+      "fee": "免费",
+      "reservation": "官方平台",
+      "ageMin": 7,
+      "ageMax": 12,
+      "sourceName": "广州图书馆官方活动发布平台",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50126776",
+      "summary": "围绕机器人声音、灯光与动作进行图形化编程及小组展示。",
+      "updatedAt": "2026-11-12T01:24:46Z"
+    },
+    {
+      "id": "draft-1794444861862",
+      "city": "广州",
+      "title": "【科普广图】少儿财商素养课堂：趣味桌游·沉浸式财富管理",
+      "venue": "广州图书馆南四楼阅创空间（广州市珠江东路4号）",
+      "category": "其他",
+      "dateText": "2026年11月14日10:30—12:00",
+      "fee": "免费",
+      "reservation": "官方微信小程序",
+      "ageMin": 6,
+      "ageMax": 12,
+      "sourceName": "广州图书馆官方活动发布平台",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50126796",
+      "summary": "通过儿童桌游、绘本及交流认识金钱和消费规划的教育活动。",
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794197661743",
@@ -289,7 +384,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50126316",
       "summary": "由幼儿园老师带领，通过绘本认识友善与接纳。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793936449563",
@@ -305,7 +400,7 @@
       "sourceName": "南京博物院官方公众活动预约平台",
       "sourceUrl": "https://activity.njmuseum.com.cn/reservation/activity/out/activityOutList.do",
       "summary": "南京博物院常设展览配套教育活动，由社教专员张娟主讲，主题为香山营造。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793599099466",
@@ -321,7 +416,7 @@
       "sourceName": "国家图书馆官网",
       "sourceUrl": "https://www.nlc.cn/web/shouye/zuixinhuodong/jzyg/20261022_2654941.shtml",
       "summary": "中国古代衣食住行系列讲座第十一场，由南京大学文学院教授苗怀明主讲，围绕《红楼梦》的饮食主题展开。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793668100275",
@@ -337,39 +432,23 @@
       "sourceName": "国家图书馆官网",
       "sourceUrl": "https://www.nlc.cn/web/shouye/zuixinhuodong/jzyg/20261022_2654942.shtml",
       "summary": "中国典籍与文化系列的古文字主题讲座，由复旦大学研究员蒋玉斌主讲。馆方标注12岁及以上适宜",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
-      "id": "draft-1794197518723",
+      "id": "draft-1794446640181",
       "city": "上海",
-      "title": "开逛有艺：“东来西往·通江达海”西游文化“一带一路”城市巡展",
-      "venue": "TOP金光汇（上海市普陀区连亮路368号）",
-      "category": "其他",
-      "dateText": "2026年11月1日—11月11日",
-      "fee": "免费",
-      "reservation": "直接前往、",
-      "ageMin": 10,
-      "ageMax": 60,
-      "sourceName": "上海市人民政府官网（来源：普陀区人民政府）",
-      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261102/49aadca332294f2f9f3b65f7facbf8cc.html",
-      "summary": "官方文化预告中的西游主题巡展，通过故事发展与人物形象展示传统文学文化；可作为家庭阅读延伸。",
-      "updatedAt": "2026-11-10T01:09:08Z"
-    },
-    {
-      "id": "draft-1792543559380",
-      "city": "上海",
-      "title": "杨浦区少体校体操、蹦床队开始招生啦→",
-      "venue": "杨浦区隆昌路640号体操馆二楼 五、注意事项 1、本次招生旨在招收少体校体操、蹦床队后备人才",
-      "category": "运动",
-      "dateText": "2026年10月20日至2026年11月5日",
-      "fee": "需要现场确认",
-      "reservation": "咨询联系： 付教练13918473515 （周一至周五10:00～17:00） 扫描下方二维码报名 四、面试安排 面试时间： 11月7号下午13：00 地点： 杨浦区隆昌路640号体操馆二楼 五、注意",
-      "ageMin": 3,
-      "ageMax": 4,
-      "sourceName": "杨浦体育",
-      "sourceUrl": "https://mp.weixin.qq.com/s/32LU-ojBo7njm7e1J1uDSQ",
-      "summary": "杨浦区少体校体操、蹦床队开始招生啦→ 杨浦体育 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 2026年杨浦区少体校 体操、蹦床队 秋季选材招生启动啦 热爱运动的你，快来报名吧！ 体操被誉为“运动之父”，不但对身体的锻炼全面，还可以帮助孩子提高身体的柔韧性和灵活性，增强身体的力量和耐力，培养良好的品质和习惯。 杨浦区少体校体操队建队已有60余年，曾培养输送了一批优秀运动员。有三届体操世锦赛冠军、中国体操吊环王严明勇，第十九届亚运会女子体操团体冠军章瑾等。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "title": "【招募】把不用的电子产品拆开来，画成一张“科学说明书”",
+      "venue": "上海科技馆地下一层 明日科创营",
+      "category": "科学",
+      "dateText": "11月14日 13:30-14:30；16:00-17:00",
+      "fee": "免费，如需参观展厅请另行购票",
+      "reservation": "扫描下方二维码，名额有限，先报先得 02 活动流程 先拆 每个家庭一套拆解工具和安全护具，在现场科学老师的陪同下，把自带的旧设备打开",
+      "ageMin": 6,
+      "ageMax": 15,
+      "sourceName": "上海科技馆",
+      "sourceUrl": "https://mp.weixin.qq.com/s/VDlj8DusBufW-QTIqnXSUA",
+      "summary": "【招募】把不用的电子产品拆开来，画成一张“科学说明书” SSTM SSTM 上海科技馆 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 这个周末，上海科技馆 “家庭科创角”亲子科创工坊 开放报名啦！ 带上孩子，也带上抽屉角落里那台早就不响的旧设备，用一个下午，把它拆开、摊平，再画成一张只属于你们家的“科学说明书”。 “家庭科创角”是上海科技馆发起的一项线上线下教育项目，鼓励青少年儿童用好家庭、社会和科技馆的科学教育资源，在家里设计、搭建属于自己的科创角，并持续参与科学探究",
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1794272384260",
@@ -385,7 +464,7 @@
       "sourceName": "北京市文物局官网",
       "sourceUrl": "https://wwj.beijing.gov.cn/bjww/362679/483700/744156834/index.html",
       "summary": "沉浸式文化浸润：专业老师带队观展，深度解读千年木作技艺发展史、榫卯结构的古人营造智慧，认识传统木工工具，聆听鲁班与木作民俗故事，让孩子在行走展厅间读懂木作文化，感受“让文物说话”的魅力。\n\n　　亲子协同实操：采用“观展+教学+实操”三维模式，亲子携手协作。在老师手把手指导下，拆解鲁班锁、搭建古建微缩模型、制作木书签或榫卯小构件，全程无需一钉一铆，亲身解锁古法木作的精巧与神奇。\n\n　　非遗匠心传承：依托博物馆深厚的教研实力，将木作技艺与非遗文化深度融合。锻炼孩子动手能力、专注力与空间思维，家长与孩子在共同打磨拼装中体悟工匠精神，让中华传统工艺浸润童心。专属纪念意义：亲手完成的木作作品可带走，每一件都承载着冬日亲子时光与非遗记忆，成为这个十一月最温暖的成长纪念。",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793937893898",
@@ -401,7 +480,7 @@
       "sourceName": "乐活虹口",
       "sourceUrl": "https://mp.weixin.qq.com/s/naCq-jTdv6lLQ1GtNdmncg",
       "summary": "周末免费LIVE活动，全是你会的歌！ 乐活虹口 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 音乐谷水岸音乐汇 转角有歌，三河有乐 地点：上海音乐谷 时间：11月7日-12月31日，每周六14:00-16:00 上周开季首演的咖啡香、萨克斯声 还留在上海音乐谷的街巷里， 不少逛完的朋友已经在催下一场安排！ 下一场演出来了！ 11月7日（周六）14:00-16:00， 音乐谷水岸音乐汇——金曲点唱机， 就在上海音乐谷·1933老场坊北侧连廊树前！",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1793243884087",
@@ -417,7 +496,7 @@
       "sourceName": "杨浦区妇联",
       "sourceUrl": "https://mp.weixin.qq.com/s/kn_FiW_zxvtoiOZRoSbF3w",
       "summary": "周五夜，赴一场非遗之约丨“7点不一样”杨浦区妇儿中心专场非遗手作系列活动招募啦！！！ 杨浦区妇联 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 晚风轻拂，梧桐叶落 深秋的风都带着一丝温润和从容 这个11月 上海市妇女儿童服务指导中心（巾帼园） “7点不一样”活动 走进杨浦区妇儿中心 每周五晚上七点 让我们一起暂时告别白日的忙碌 用指尖拾起非遗匠心",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     },
     {
       "id": "draft-1792816240150",
@@ -433,7 +512,7 @@
       "sourceName": "碧云BAM",
       "sourceUrl": "https://mp.weixin.qq.com/s/X0sbkPvUNnoAbDDXVaPcyA",
       "summary": "五课一期 挑战大画幅",
-      "updatedAt": "2026-11-10T01:09:08Z"
+      "updatedAt": "2026-11-12T01:24:46Z"
     }
   ]
 }
