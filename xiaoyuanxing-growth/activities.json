@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T02:00:36Z",
+  "updatedAt": "2026-11-25T07:58:44Z",
   "publisher": "小远行大成长公开活动库",
   "notice": "请仅录入已核验、公开可访问且仍有效的活动；活动时间、费用、预约方式以原始发布页面为准。",
   "items": [
@@ -18,7 +18,7 @@
       "sourceName": "上海博物馆官网",
       "sourceUrl": "https://www.shanghaimuseum.cn/frontend/pg/article/id/E00004238",
       "summary": "上海博物馆对话世界系列第六展。文物来自墨西哥、秘鲁的顶级文博机构，中国国内的7省文博机构的珍贵文物也并置展出，以中国视角解读美洲文明。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1794272226473",
@@ -34,7 +34,23 @@
       "sourceName": "上海市文化和旅游局官网",
       "sourceUrl": "https://whlyj.sh.gov.cn/wbzx/20261030/eb43dd6984364cf298df25952ccae844.html",
       "summary": "古籍图像与版画文化主题展，可作为家庭阅读和艺术观察的参考。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593182881",
+      "city": "上海",
+      "title": "盛世修典：“中国历代绘画大系”主题展·“宋画里的江南”上海金山特展",
+      "venue": "上海金山区博物馆",
+      "category": "艺术",
+      "dateText": "2026年11月21日—2027年2月21日",
+      "fee": "待人工确认（官方原文未注明）",
+      "reservation": "021-57953310",
+      "ageMin": 5,
+      "ageMax": 15,
+      "sourceName": "上海市人民政府门户网站·金山区人民政府城市文化菜单",
+      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261124/4961d4d7752547529dc848d6c7eb2e69.html",
+      "summary": "面向公众的宋画主题文化展览，展期尚未结束。",
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1794981515730",
@@ -50,7 +66,23 @@
       "sourceName": "北京市丰台区人民政府官网",
       "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202611/t20261115_230162.shtml",
       "summary": "包括赛车知识、反应训练、手眼协调和教练带领的驾驶制动体验。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593257123",
+      "city": "广州",
+      "title": "一书一签传承篇：广彩为什么“亮”？——颜色里的光学",
+      "venue": "广州图书馆南三楼中区（珠江东路4号）",
+      "category": "科学",
+      "dateText": "2026年12月5日14:30—15:30；14:15—14:30签到",
+      "fee": "免费",
+      "reservation": "官方平台报名",
+      "ageMin": 6,
+      "ageMax": 15,
+      "sourceName": "广州图书馆官方活动平台",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50128376",
+      "summary": "结合广彩工艺观察反射、分光及光与颜料的混色差异，由广东工业大学志愿团队主讲。",
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795485530734",
@@ -66,7 +98,7 @@
       "sourceName": "深圳南山图书馆官方读者活动平台（官网读者活动入口核验）",
       "sourceUrl": "https://activity.nslib.cn/mb/activity/info/12126",
       "summary": "劳梓聪（Lucas）带领孩子共读女巫温妮故事，参与双语阅读。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795485505334",
@@ -82,7 +114,23 @@
       "sourceName": "深圳南山图书馆官方读者活动平台（官网读者活动入口核验）",
       "sourceUrl": "https://activity.nslib.cn/mb/activity/info/12125",
       "summary": "借助探索任务单观察公园景观、了解深圳人才故事，练习提问与记录。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593233661",
+      "city": "广州",
+      "title": "“粤你童行”粤语读书会：故事里的粤语俚语",
+      "venue": "广州图书馆亲子绘本阅读馆南二楼悦读伴岛（天河区珠江东路4号）",
+      "category": "其他",
+      "dateText": "2026年11月29日10:30—11:30；10:15—10:30签到",
+      "fee": "免费",
+      "reservation": "11月24日14:00至11月28日16:00官方平台报名",
+      "ageMin": 3,
+      "ageMax": 6,
+      "sourceName": "广州图书馆官方活动平台（馆方org.cn域名及官网信息核验）",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50128236",
+      "summary": "馆员以粤语改编绘本故事，讲解俚语，并安排亲子手工与成果分享。",
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795485560182",
@@ -98,7 +146,7 @@
       "sourceName": "深圳南山图书馆官方读者活动平台（官网读者活动入口核验）",
       "sourceUrl": "https://activity.nslib.cn/mb/activity/info/12142",
       "summary": "熊亮与大小读者分享中国原创绘本和东方童话，包括民间文化及自然意象。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795485469408",
@@ -112,7 +160,7 @@
       "sourceName": "上海市人民政府官网（静安区人民政府，2026年11月3日发布）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20261103/71ffe89767f64967836eb2121a9af1fd.html",
       "summary": "展示学生用传统绘画、电脑绘画及编程动画表达自然观察与环保理念的作品。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795416699848",
@@ -128,7 +176,7 @@
       "sourceName": "上海市人民政府官网（宝山区人民政府，2026年11月18日菊展信息更新）",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261118/663b03f091294b0cadb1f4c62fb07b9b.html",
       "summary": "官方推荐带孩子观察菊花的公共自然与园艺展示，含传统菊艺、语音互动及3D球灯等展示内容。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1794197704322",
@@ -144,7 +192,7 @@
       "sourceName": "金陵图书馆官网",
       "sourceUrl": "https://www.jllib.cn/hdym/hdyg/px/202611/t20261105_75999.html",
       "summary": "由儿童阅读指导师带领的绘本精读。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1793242995881",
@@ -160,7 +208,39 @@
       "sourceName": "北京市文物局",
       "sourceUrl": "https://wwj.beijing.gov.cn/bjww/362679/483700/744147982/index.html",
       "summary": "中国电影博物馆长征主题影像展映活动，展期持续至11月29日。供家庭历史文化教育活动参考，具体影片、场次、费用及适龄需在发布前核实。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593066727",
+      "city": "北京",
+      "title": "童心书缘：阿布的飞天梦——敦煌壁画美育体验",
+      "venue": "北京城市图书馆少年儿童馆少儿外文图书区域",
+      "category": "艺术",
+      "dateText": "2026年11月28日14:00—15:00",
+      "fee": "免费",
+      "reservation": "北京城市图书馆”小程序预约",
+      "ageMin": 5,
+      "ageMax": 7,
+      "sourceName": "北京城市图书馆官方网站（版权所有：首都图书馆）",
+      "sourceUrl": "https://bjlib.clcn.net.cn/activity/default/view?id=13632",
+      "summary": "绘本共读结合敦煌壁画颜色、纹样认识及飞天主题手绘。",
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593041122",
+      "city": "广州",
+      "title": "“科普广图”小小建筑师：奇屋环游工坊",
+      "venue": "广州图书馆南四楼阅创空间（珠江东路4号）",
+      "category": "科学",
+      "dateText": "2026年11月28日14:30—16:00；14:15—14:30签到",
+      "fee": "免费",
+      "reservation": "官方平台报名",
+      "ageMin": 7,
+      "ageMax": 12,
+      "sourceName": "广州图书馆官方活动平台",
+      "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50128318",
+      "summary": "以不同地域建筑为线索，结合模拟环游及创意搭建，探索空间、文化和居住环境的联系。",
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795416842458",
@@ -176,7 +256,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50127478",
       "summary": "由华南农业大学天文爱好者协会结合科幻、文学和星空知识开展活动，并介绍陨石；户外望远镜观测以天气允许为前提。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795416811392",
@@ -192,7 +272,7 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50127776",
       "summary": "通过环保主题剧本、线索推理和闯关体验学习生态保护，由广州市志愿者行动指导中心及华南农业大学志愿团队带领。、】",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795416789388",
@@ -208,7 +288,7 @@
       "sourceName": "深圳南山图书馆官方读者活动平台",
       "sourceUrl": "https://activity.nslib.cn/activity/info/12089",
       "summary": "通过蛇口海岸及博物馆行走阅读了解城市发展与开拓历史。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1795416762375",
@@ -224,7 +304,7 @@
       "sourceName": "深圳南山图书馆官方读者活动平台（官网读者活动入口可核对）",
       "sourceUrl": "https://activity.nslib.cn/mb/activity/info/12083",
       "summary": "由汤英祥带领阅读关于书信、等待与友谊的绘本。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1793846855900",
@@ -240,7 +320,21 @@
       "sourceName": "广州图书馆官方活动发布平台",
       "sourceUrl": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50126296",
       "summary": "由广州图书馆馆员亭亭老师带领的英文绘本阅读活动，通过猫与狗的故事探讨相处和友谊。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
+    },
+    {
+      "id": "draft-1795593105443",
+      "city": "上海",
+      "title": "美育大课堂：“水乡微筑”江南水乡建筑模型制作",
+      "venue": "普陀区图书馆3楼学术报告厅1（铜川路1278号）",
+      "category": "艺术",
+      "dateText": "2026年11月27日15:30起",
+      "fee": "免费",
+      "reservation": "上海普陀文旅微信小程序报名",
+      "sourceName": "上海市人民政府门户网站·普陀区人民政府活动预告",
+      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20261123/d99140dfab4640c48ba8a29273180f55.html",
+      "summary": "亲子共读江南水乡主题绘本并搭建水乡建筑模型。",
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1793755897890",
@@ -256,7 +350,7 @@
       "sourceName": "杭州图书馆官网",
       "sourceUrl": "https://www.zjhzlib.cn/hdyghz/8255.htm",
       "summary": "暂无，关注微信公众号",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1794272384260",
@@ -272,7 +366,7 @@
       "sourceName": "北京市文物局官网",
       "sourceUrl": "https://wwj.beijing.gov.cn/bjww/362679/483700/744156834/index.html",
       "summary": "沉浸式文化浸润：专业老师带队观展，深度解读千年木作技艺发展史、榫卯结构的古人营造智慧，认识传统木工工具，聆听鲁班与木作民俗故事，让孩子在行走展厅间读懂木作文化，感受“让文物说话”的魅力。\n\n　　亲子协同实操：采用“观展+教学+实操”三维模式，亲子携手协作。在老师手把手指导下，拆解鲁班锁、搭建古建微缩模型、制作木书签或榫卯小构件，全程无需一钉一铆，亲身解锁古法木作的精巧与神奇。\n\n　　非遗匠心传承：依托博物馆深厚的教研实力，将木作技艺与非遗文化深度融合。锻炼孩子动手能力、专注力与空间思维，家长与孩子在共同打磨拼装中体悟工匠精神，让中华传统工艺浸润童心。专属纪念意义：亲手完成的木作作品可带走，每一件都承载着冬日亲子时光与非遗记忆，成为这个十一月最温暖的成长纪念。",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1793937893898",
@@ -288,7 +382,7 @@
       "sourceName": "乐活虹口",
       "sourceUrl": "https://mp.weixin.qq.com/s/naCq-jTdv6lLQ1GtNdmncg",
       "summary": "周末免费LIVE活动，全是你会的歌！ 乐活虹口 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 音乐谷水岸音乐汇 转角有歌，三河有乐 地点：上海音乐谷 时间：11月7日-12月31日，每周六14:00-16:00 上周开季首演的咖啡香、萨克斯声 还留在上海音乐谷的街巷里， 不少逛完的朋友已经在催下一场安排！ 下一场演出来了！ 11月7日（周六）14:00-16:00， 音乐谷水岸音乐汇——金曲点唱机， 就在上海音乐谷·1933老场坊北侧连廊树前！",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1793243884087",
@@ -304,7 +398,7 @@
       "sourceName": "杨浦区妇联",
       "sourceUrl": "https://mp.weixin.qq.com/s/kn_FiW_zxvtoiOZRoSbF3w",
       "summary": "周五夜，赴一场非遗之约丨“7点不一样”杨浦区妇儿中心专场非遗手作系列活动招募啦！！！ 杨浦区妇联 在小说阅读器读本章 去阅读 在公众号小说中沉浸阅读 晚风轻拂，梧桐叶落 深秋的风都带着一丝温润和从容 这个11月 上海市妇女儿童服务指导中心（巾帼园） “7点不一样”活动 走进杨浦区妇儿中心 每周五晚上七点 让我们一起暂时告别白日的忙碌 用指尖拾起非遗匠心",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     },
     {
       "id": "draft-1792816240150",
@@ -320,7 +414,7 @@
       "sourceName": "碧云BAM",
       "sourceUrl": "https://mp.weixin.qq.com/s/X0sbkPvUNnoAbDDXVaPcyA",
       "summary": "五课一期 挑战大画幅",
-      "updatedAt": "2026-11-24T02:00:36Z"
+      "updatedAt": "2026-11-25T07:58:44Z"
     }
   ]
 }
